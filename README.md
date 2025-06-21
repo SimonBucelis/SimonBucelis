@@ -9,18 +9,7 @@
 
 ## 🧰 Tech Stack
 
-**Operating Systems & Tools**  
-Linux (Arch), Windows, Git, WordPress, Figma, Cisco Packet Tracer  
-
-**Languages & Scripting**  
-SQL, C++, Bash (basics)  
-
-**Concepts & Skills**  
-- Systems administration fundamentals (Linux & Windows servers)  
-- Cyber hygiene and security principles (NKSC certified)  
-- Network basics and simulation (Cisco Packet Tracer)  
-- UI/UX basics with Figma  
-- Web basics with WordPress  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonBucelis&hide=stars,prs,issue&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
