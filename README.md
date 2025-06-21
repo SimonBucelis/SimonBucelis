@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonBucelis&hide=stars,prs,issue&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
