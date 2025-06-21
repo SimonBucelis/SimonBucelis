@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Simonas Bučelis!
 
-<!--
-**SimonBucelis/SimonBucelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems and Security student at Vilniaus Kolegija  
+🐧 Arch Linux enthusiast  
+🧠 Intrested in cybersecurity, systems administration, and open source  
+🌱 Currently learning system administration, Linux, SQL, and cybersecurity fundamentals  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Operating Systems & Tools**  
+Linux (Arch), Windows, Git, WordPress, Figma, Cisco Packet Tracer  
+
+**Languages & Scripting**  
+SQL, C++, Bash (basics)  
+
+**Concepts & Skills**  
+- Systems administration fundamentals (Linux & Windows servers)  
+- Cyber hygiene and security principles (NKSC certified)  
+- Network basics and simulation (Cisco Packet Tracer)  
+- UI/UX basics with Figma  
+- Web basics with WordPress  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonBucelis&hide=stars,prs,issue&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+## 📫 Reach Me
+
+📍 Based in Vilnius, Lithuania  
+📧 bucelis.simonas@outlook.com  
